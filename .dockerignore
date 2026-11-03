@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.idea/
+chroma_data/
+notebooks/
+requirements-dev.txt
+README.txt
+*.docx
